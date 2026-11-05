@@ -34,4 +34,4 @@ $ ./Elastic.R ./small_crispr_Phase2_l3_GSE70138_level3_2017/LDS-1483/Data/HT29/G
 ###**Before you start the process, here are a few things you need to know**  
 1. rp48_environment.yaml is the main Conda environment configuration file.
 2. The above primarily runs on an Ubuntu Server environment (Ubuntu 24.04.2 LTS). 
-3. If you need detailed sample data files, please contact us at m17715629787@163.com
+3. If you need detailed sample data files, please contact us at m17715629787@163.com | liheng19@mails.ucas.ac.cn | duanyou@outlook.com
