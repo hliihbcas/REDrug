@@ -1,5 +1,5 @@
 # REDrug
-###REDrug: a framework for screening immunotherapy-sensitizing compounds in CRC using immunotherapy-potentiating transcriptional signatures
+### REDrug: a framework for screening immunotherapy-sensitizing compounds in CRC using immunotherapy-potentiating transcriptional signatures
 
 ### Difference Analysis
 $ ./Rversion1.2.R de_analyse 11 ./deanalysis/GSE174252/data_deanalysis 0 ./deanalysis/GSE174252/feature_deanalysis > ./deanalysis/GSE174252/err.txt 2>&1 &
@@ -31,7 +31,7 @@ $ python result_excavation_combination.py ./REDValue/formu08
 ### Elastic model
 $ ./Elastic.R ./small_crispr_Phase2_l3_GSE70138_level3_2017/LDS-1483/Data/HT29/GSEAresult_nes_test.txt /home/hli/NetGNN/visomics-1.2/LASSO_positive/GSEAresult_nes_test_simple.txt 5000
 
-###**Before you start the process, here are a few things you need to know**  
+### **Before you start the process, here are a few things you need to know**  
 1. rp48_environment.yaml is the main Conda environment configuration file.
 2. The above primarily runs on an Ubuntu Server environment (Ubuntu 24.04.2 LTS). 
 3. If you need detailed sample data files, please contact us at m17715629787@163.com | liheng19@mails.ucas.ac.cn | duanyou@outlook.com
